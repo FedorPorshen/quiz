@@ -1,0 +1,7 @@
+export { default as Input } from './input/input'
+export { default as Button } from './button/button'
+export { default as ButtonBack } from './buttonBack/buttonBack'
+export { default as NavButton } from './buttonNav/buttonNav'
+export { default as Layout } from './layout/layout'
+export { default as Timer } from './timer/timer'
+export { default as Modal } from './modal/modal'
